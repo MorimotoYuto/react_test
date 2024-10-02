@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1>Hello React!!!!</h1>
       <h2>Start editing to see some magic happen!</h2>
-      <h3>codesandboxに慣れません</h3>
+      <h3>codesandboxに慣れません　難しいです</h3>
       <Button>text</Button>
       <Button variant="contained">contained</Button>
       <Button variant="outlined">outlined</Button>
