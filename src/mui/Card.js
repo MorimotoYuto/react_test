@@ -18,8 +18,7 @@ const CustomCard = () => {
           モンキー・D・ルフィ
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          This is an example of a card component using Material-UI with an
-          image.
+          test
         </Typography>
       </CardContent>
     </Card>
