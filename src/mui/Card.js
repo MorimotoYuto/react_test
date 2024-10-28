@@ -15,7 +15,7 @@ const CustomCard = () => {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Card Title
+          モンキー・D・ルフィ
         </Typography>
         <Typography variant="body2" color="text.secondary">
           This is an example of a card component using Material-UI with an
